@@ -12,3 +12,11 @@ x = torch.rand(3,2)
 print(x)
 
 
+x = torch.empty(3,2)
+print(x)
+
+y = torch.zeros(3,2)
+print(y)
+
+
+
