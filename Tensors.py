@@ -41,7 +41,7 @@ print(y)
 print(y.item())
 
 
-#reshaping tensors
+#reshaping tensors 
 x = torch.tensor([[1, 2, 3],
                  [4, 5, 6]])
 print(x)
