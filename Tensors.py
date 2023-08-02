@@ -70,7 +70,7 @@ z = y.add(x)
 print(z)
 print(y)
 
-z = y.add_(x) # midified inplace
+z = y.add_(x) # modified inplace
 print(z)
 print(y)
 
